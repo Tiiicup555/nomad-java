@@ -10,7 +10,7 @@ class Java1 {
 
         for (int i = 0; i < count; i++) {
             int a = in.nextInt();
-            int b = in.nextInt();432`
+            int b = in.nextInt();
 
             if (a < b) {
                 int t = a;
